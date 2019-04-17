@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1030488388670",
+    "firebase_url": "https://fireapp-abb62.firebaseio.com",
+    "project_id": "fireapp-abb62",
+    "storage_bucket": "fireapp-abb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030488388670:android:e119e57b4cc159bd",
+        "android_client_info": {
+          "package_name": "com.caesar.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030488388670-eaoe6skhqdb2vlc8d581qg2a6s8pop3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24L5ADR7e5GcciAFlwx73z_qdtWhikPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
